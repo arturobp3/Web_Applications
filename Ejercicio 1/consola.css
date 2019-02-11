@@ -1,0 +1,9 @@
+body {
+	color: #00CC00;
+	background-color: #000000;
+	font-family: monospace;
+}
+
+p, h1, h2, h3 {
+	font-size: 18px;
+}
